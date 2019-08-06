@@ -1,0 +1,6 @@
+Debug
+ConsoleEcho.vcxproj*
+ConsoleEcho.vcxproj
+.vs
+!Debug/ConsoleEcho.exe
+build/
